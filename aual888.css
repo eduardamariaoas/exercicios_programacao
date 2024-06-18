@@ -1,0 +1,22 @@
+a{
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+    padding: 8px 12px ;
+    background-color: rgb(194, 129, 255);
+    display: inline-block;
+    }
+    
+    .duda{
+    display:grid;
+    gap: 20px; 
+    grid-template-columns:300px 300px;
+justify-content: ;
+    }
+    
+    .soso{
+        background: rgb(168, 247, 252);
+        padding: 20px;
+    }
+    .at{
+    text-align: center;
+    }

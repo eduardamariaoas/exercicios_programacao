@@ -1,0 +1,12 @@
+.quadrado{
+    background-color: antiquewhite;
+    display:inline-block ;
+    padding-top:100px ;
+    padding-bottom: 200px;
+    padding-left: 88px;
+padding-right: 50px;
+border-top:10px solid black;
+border-bottom: 10px solid black;
+border-left: 20px solid rgb(0, 0, 0);
+border-right:20px solid black;
+}

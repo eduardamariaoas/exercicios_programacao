@@ -1,0 +1,21 @@
+.quadrado{
+    background-color:rgb(2, 6, 19);
+    border: 5px solid black;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+h2,p{
+    color: rgb(233, 242, 247);
+} 
+span{
+    color: #fdf503fd;
+}
+a{
+color: black;
+background-color: rgb(243, 255, 5);
+padding: 10px;
+text-decoration: none;
+}
+h2{
+    margin: 0;
+}

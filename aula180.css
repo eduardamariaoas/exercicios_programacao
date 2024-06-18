@@ -1,0 +1,14 @@
+h1{
+    padding: 40px 20px;
+    background-color: aqua;
+}
+
+.dado{
+    display: flex;
+    gap:100px;
+    flex-wrap: wrap;
+
+
+
+
+}
